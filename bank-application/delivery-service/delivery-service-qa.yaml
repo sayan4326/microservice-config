@@ -8,4 +8,4 @@ delivery-service:
       - (009) 123-0909
 
 build:
-  version: 2.1.0
+  version: 20.1.0
