@@ -2,7 +2,7 @@ delivery-service:
   message: "Welcome to FoodApp Delivery APIs Dev support"
   contactDetails:
     name: "Sayan Mallick - Lead Dev"
-    email: "Sayan.Mallick@foodApp.com"
+    email: "{cipher}d75d7cf085b3a4e670c0e6b9da06e6753cc905e0a892bc1d1608aa750de1e647117188fc06c04cccd362a1444a1ffd1b"
     onCallSupport:
       - (453) 392-4829
       - (236) 203-0384
