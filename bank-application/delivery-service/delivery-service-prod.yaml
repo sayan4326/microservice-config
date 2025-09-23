@@ -2,7 +2,7 @@ delivery-service:
   message: "Welcome to FoodApp Delivery APIs Prod support"
   contactDetails:
     name: "Milli Jhonoson - Product Owner"
-    email: "Milli.Jhonson@foodApp.com"
+    email: "{cipher}227e2bd2d7fe4f846c0a0e9277f776968ac9e05d1ea6c0233543d68fbfafa9d80833da5d40e86ad3fc33175bac4080f4"
     onCallSupport:
       - (453) 392-4829
       - (236) 203-0384
