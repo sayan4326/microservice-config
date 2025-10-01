@@ -1,8 +1,8 @@
 delivery-service:
   message: "Welcome to FoodApp Delivery APIs Prod support"
   contactDetails:
-    name: "Nagasayan Puppala - Product Owner"
-    email: "{cipher}b5c2ba02d54c4d493bea2ba1481f1296f8ea228e4ecd5c6903d0001e4403099b2cf1f4e06b16eecd1748e6516c7b388e"
+    name: "Robert Stephens - Product Owner"
+    email: "{cipher}2a20f56ffce38b49cc698d33705d9cfbcede16b3cfdd83a2069c8ca1add0f4c200a9f6a4393a0882ee853f9efe840ed8"
     onCallSupport:
       - (453) 392-4829
       - (236) 203-0384
