@@ -1,7 +1,7 @@
 delivery-service:
   message: "Welcome to FoodApp Delivery APIs Prod support"
   contactDetails:
-    name: "Ratan Gupta - Product Owner"
+    name: "Ratan Sahrama - Product Owner"
     email: "{cipher}2a20f56ffce38b49cc698d33705d9cfbcede16b3cfdd83a2069c8ca1add0f4c200a9f6a4393a0882ee853f9efe840ed8"
     onCallSupport:
       - (453) 392-4829
