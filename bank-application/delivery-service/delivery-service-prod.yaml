@@ -1,8 +1,8 @@
 delivery-service:
   message: "Welcome to FoodApp Delivery APIs Prod support"
   contactDetails:
-    name: "Tim Harris - Product Owner"
-    email: "{cipher}d9eb21a5a7e2d46c4f211b237804cc64f7849d3ec75fb28dd6dee2bfb7e70df649ac284190538ed21704b89a852e3e20"
+    name: "Nathan Jhonson - Product Owner"
+    email: "{cipher}08964fde03753c09a63ef6c858d389158b0455936433fd797c4147f785c7a3e982443fed37d57b9628c21e8f76a7f255"
     onCallSupport:
       - (453) 392-4829
       - (236) 203-0384
