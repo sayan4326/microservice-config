@@ -1,7 +1,7 @@
 delivery-service:
   message: "Welcome to FoodApp Delivery APIs Prod support"
   contactDetails:
-    name: "Nathan Jhonson - Product Owner"
+    name: "Sheldon Jhonson - Product Owner"
     email: "{cipher}08964fde03753c09a63ef6c858d389158b0455936433fd797c4147f785c7a3e982443fed37d57b9628c21e8f76a7f255"
     onCallSupport:
       - (453) 392-4829
