@@ -1,7 +1,7 @@
 delivery-service:
   message: "Welcome to FoodApp Delivery APIs Prod support"
   contactDetails:
-    name: "Garret Jenny - Product Owner"
+    name: "Nagasayan Puppala - Product Owner"
     email: "{cipher}b5c2ba02d54c4d493bea2ba1481f1296f8ea228e4ecd5c6903d0001e4403099b2cf1f4e06b16eecd1748e6516c7b388e"
     onCallSupport:
       - (453) 392-4829
