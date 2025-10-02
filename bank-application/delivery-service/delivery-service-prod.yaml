@@ -1,7 +1,7 @@
 delivery-service:
   message: "Welcome to FoodApp Delivery APIs Prod support"
   contactDetails:
-    name: "Amabani Richard - Product Owner"
+    name: "Sayan Mallick - Product Owner"
     email: "{cipher}92378e87be619bfc58dbd9d2d2175f9224e12a675930e3260a2e8b2c50e31b24caed96ce8b512e93040b72863d544882"
     onCallSupport:
       - (453) 392-4829
