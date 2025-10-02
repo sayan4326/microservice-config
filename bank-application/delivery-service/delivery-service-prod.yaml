@@ -1,8 +1,8 @@
 delivery-service:
   message: "Welcome to FoodApp Delivery APIs Prod support"
   contactDetails:
-    name: "Sheldon Cooper - Product Owner"
-    email: "{cipher}a2bb8269a1cb875df141581186f635aa62d2f55dbde902dc78639d2175bd08d27a9adad389e52598f3b66eb0eee2e8b7"
+    name: "Penny Hofstader - Product Owner"
+    email: "{cipher}92378e87be619bfc58dbd9d2d2175f9224e12a675930e3260a2e8b2c50e31b24caed96ce8b512e93040b72863d544882"
     onCallSupport:
       - (453) 392-4829
       - (236) 203-0384
