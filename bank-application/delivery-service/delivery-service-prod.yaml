@@ -1,8 +1,8 @@
 delivery-service:
   message: "Welcome to FoodApp Delivery APIs Prod support"
   contactDetails:
-    name: "odegi Khan - Product Owner"
-    email: "{cipher}2a20f56ffce38b49cc698d33705d9cfbcede16b3cfdd83a2069c8ca1add0f4c200a9f6a4393a0882ee853f9efe840ed8"
+    name: "Rajesh Koothrapali - Product Owner"
+    email: "{cipher}dd8d35b7c80949ec3d1a993b15d93d033b7cd1cada90ae02dc648478607e93bb08e592f25bba6bd242633540290a41ce"
     onCallSupport:
       - (453) 392-4829
       - (236) 203-0384
